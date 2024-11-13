@@ -26,10 +26,10 @@ I've organized the tools into clear categories, making it easy to find exactly w
 🛠️ **What You'll Find Inside**\
 From development aids to security essentials, each tool has been tested and proven valuable. Here are some categories you’ll encounter:
 
-* **Coding & Development**: Tools to boost productivity, write cleaner code, and streamline workflows.
-* **Cybersecurity Essentials**: Resources and tools that help secure your work and protect against cyber threats.
-* **Project Management**: Handy tools to help keep projects organized and on track.
-* **Learning Resources**: My favorite platforms, guides, and tutorials for continuous learning.
+* [**Coding & Development**](coding-and-development.md): Tools to boost productivity, write cleaner code, and streamline workflows.
+* [**Cybersecurity Essentials**](cybersecurity-essentials.md): Resources and tools that help secure your work and protect against cyber threats.
+* [**Productivity**](productivity.md): Handy tools to help keep you organized and on track.
+* [**Learning Resources**](learning-resources.md): My favorite platforms, guides, and tutorials for continuous learning.
 
 💡 **Get Started!**\
 Pick a category, dive in, and start exploring! Try out the tools that sound interesting, and don’t hesitate to experiment. Many of these have free versions or trials, so you can get a feel for what works best for you. I hope these resources bring as much value to your work as they have to mine. Enjoy the journey! 🌟🔗
